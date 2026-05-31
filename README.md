@@ -1,36 +1,173 @@
-# Tongkai Xu
+<h1 align="center">
+  Tongkai Xu | 许桐恺
+</h1>
 
-AI Builder & Research Enthusiast.
+<p align="center">
+  AI Builder · Research Enthusiast · Multi-Agent Systems
+  <br>
+  AI开发者 · 智能体研究者 · 多智能体系统
+</p>
 
-Currently exploring:
+---
 
-- Agent Memory
-- Multi-Agent Systems
-- Narrative Intelligence
-- Financial AI
-- LLM Infrastructure
+## 👋 About Me | 关于我
 
-## Selected Projects
+I'm an undergraduate student passionate about AI Agents, Multi-Agent Systems, and Generative AI.
+
+我是一名专注于 AI Agent、多智能体系统（Multi-Agent Systems）与生成式人工智能的本科生开发者。
+
+### Current Interests | 当前研究方向
+
+- 🤖 AI Agents & Agentic Workflows
+- 🧠 Agent Memory Systems
+- 📚 Narrative Intelligence
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 💰 AI for Finance & Stablecoins
+- 🏗️ AI Infrastructure
+
+---
+
+## 🚀 Featured Projects | 代表项目
 
 ### StableGuard
-Stress-testing stablecoin ecosystems through heterogeneous multi-agent simulation.
+
+**AI-Powered Stablecoin Resilience Stress Testing Platform**
+
+基于生成式 AI 的稳定币数字韧性压力测试平台
+
+**Highlights**
+
+- Multi-Agent Simulation
+- Depeg Risk Boundary Quantification
+- Risk Propagation Analysis
+- Regulatory Decision Support
+
+**核心能力**
+
+- 异构多智能体仿真
+- 脱锚风险边界量化
+- 风险传导路径分析
+- 监管决策支持
+
+---
 
 ### Narrative OS
-Operating system for long-form AI storytelling.
 
-### Agent Memory Lab
-Researching recommendation-inspired memory architectures for autonomous agents.
+**Operating System for Long-Form AI Storytelling**
 
-## Research Interests
+面向长篇小说创作的智能叙事操作系统
 
-- Retrieval-Augmented Generation
-- Agentic Systems
-- Memory Architectures
+- Dynamic Narrative Memory
+- Character State Management
+- Plot Planning & Reflection
+- Writer-Agent Collaboration
+
+---
+
+### Agent Memory Research
+
+**Recommendation-System Inspired Agent Memory**
+
+推荐系统启发的智能体记忆架构研究
+
+Exploring how recommendation algorithms can improve long-term memory retrieval and context selection for autonomous agents.
+
+探索如何利用推荐算法提升智能体长期记忆检索与上下文选择能力。
+
+---
+
+## 🔬 Research Interests | 研究兴趣
+
+### AI Systems
+
+- Multi-Agent Systems
+- Agent Memory
+- Agentic RAG
+- LLM Applications
+
+### Human-AI Interaction
+
+- Narrative Intelligence
+- Creative AI
 - Human-AI Collaboration
-- Computational Narratives
 
-## Contact
+### Intelligent Infrastructure
 
-- Email
-- LinkedIn
-- Google Scholar (future)
+- Recommendation Systems
+- Knowledge Retrieval
+- Context Engineering
+
+---
+
+## 🛠 Tech Stack | 技术栈
+
+### Languages
+
+```text
+Python · TypeScript · JavaScript · Java · C++
+```
+
+### AI
+
+```text
+PyTorch
+Transformers
+LangGraph
+LlamaIndex
+OpenAI SDK
+RAG Systems
+Multi-Agent Frameworks
+```
+
+### Backend
+
+```text
+FastAPI
+Redis
+PostgreSQL
+Docker
+Linux
+```
+
+### Frontend
+
+```text
+React
+Next.js
+TailwindCSS
+```
+
+---
+
+## 🎯 Current Focus | 当前重点
+
+```text
+Building
+├── AI Agents
+├── Multi-Agent Systems
+├── Agent Memory
+├── Narrative OS
+└── StableGuard
+
+Researching
+├── Recommendation-inspired Memory
+├── Context Selection
+├── Long-Term Memory
+└── Human-AI Collaboration
+```
+
+---
+
+## 🌱 Philosophy | 技术理念
+
+> Build systems that can think, remember and collaborate.
+
+构建能够思考（Think）、记忆（Remember）与协作（Collaborate）的智能系统。
+
+---
+
+## 📫 Contact | 联系方式
+
+- Email: your_email@example.com
+- GitHub: https://github.com/yourname
+- LinkedIn: your_linkedin
