@@ -23,7 +23,6 @@ I'm an undergraduate student passionate about AI Agents, Multi-Agent Systems, an
 - 📚 Narrative Intelligence
 - 🔍 Retrieval-Augmented Generation (RAG)
 - 💰 AI for Finance & Stablecoins
-- 🏗️ AI Infrastructure
 
 ---
 
@@ -104,19 +103,15 @@ Exploring how recommendation algorithms can improve long-term memory retrieval a
 ### Languages
 
 ```text
-Python · TypeScript · JavaScript · Java · C++
+Python · TypeScript · JavaScript
 ```
 
 ### AI
 
 ```text
 PyTorch
-Transformers
-LangGraph
-LlamaIndex
-OpenAI SDK
 RAG Systems
-Multi-Agent Frameworks
+Multi-Agent
 ```
 
 ### Backend
@@ -124,8 +119,6 @@ Multi-Agent Frameworks
 ```text
 FastAPI
 Redis
-PostgreSQL
-Docker
 Linux
 ```
 
@@ -133,8 +126,6 @@ Linux
 
 ```text
 React
-Next.js
-TailwindCSS
 ```
 
 ---
@@ -168,6 +159,5 @@ Researching
 
 ## 📫 Contact | 联系方式
 
-- Email: your_email@example.com
-- GitHub: https://github.com/yourname
-- LinkedIn: your_linkedin
+- Email: xutongkai2004@gmail.com
+- GitHub: [https://github.com/Kirawii](https://github.com/Kirawii/)
