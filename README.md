@@ -1,16 +1,36 @@
-## Hi there 👋
+# Tongkai Xu
 
-<!--
-**Kirawii/Kirawii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Builder & Research Enthusiast.
 
-Here are some ideas to get you started:
+Currently exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agent Memory
+- Multi-Agent Systems
+- Narrative Intelligence
+- Financial AI
+- LLM Infrastructure
+
+## Selected Projects
+
+### StableGuard
+Stress-testing stablecoin ecosystems through heterogeneous multi-agent simulation.
+
+### Narrative OS
+Operating system for long-form AI storytelling.
+
+### Agent Memory Lab
+Researching recommendation-inspired memory architectures for autonomous agents.
+
+## Research Interests
+
+- Retrieval-Augmented Generation
+- Agentic Systems
+- Memory Architectures
+- Human-AI Collaboration
+- Computational Narratives
+
+## Contact
+
+- Email
+- LinkedIn
+- Google Scholar (future)
