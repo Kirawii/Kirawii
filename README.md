@@ -40,11 +40,6 @@ A retrieval framework that decouples retrieval anchors from generation content t
 
 Currently under submission to AAAI 2026.
 
-### Agent Memory System
-
-Designed memory and resource management modules for AI Agents.
-
-Reduced context token consumption by 60% while maintaining conversation coherence.
 
 ---
 
