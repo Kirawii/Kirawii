@@ -11,7 +11,7 @@ Interested in building AI systems that can think, remember and collaborate.
 - 🎓 Computer Science @ SWUFE
 - 🔬 Research Assistant @ Nice Lab
 - 🤖 AI Agent & Multi-Agent Systems
-- 📚 EMNLP 2026 Submission (M-RAG)
+- 📚 AAAI 2026 Submission (M-RAG)
 - 🏆 Citibank Financial Innovation Competition Finalist
 
 ---
