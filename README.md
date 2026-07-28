@@ -5,7 +5,9 @@ Computer Science Student @ SWUFE
 Interested in building AI systems that can think, remember and collaborate.
 
 🌐 Personal Website: https://kirawii.github.io
+
 🌐 Personal Blog: https://kirawii.cn
+
 ---
 
 ## About Me
