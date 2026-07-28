@@ -12,17 +12,16 @@ Interested in building AI systems that can think, remember and collaborate.
 
 - 🎓 Computer Science @ SWUFE
 - 🔬 Research Assistant @ Nice Lab
-- 🤖 AI Agent & Multi-Agent Systems
-- 📚 AAAI 2026 Submission (M-RAG)
-- 🏆 Citibank Financial Innovation Competition Finalist
+- 🤖 AI Agent & RAG
+- 📚 TOIS 2026 Submission (M-RAG)
+- 🏆 Citibank Financial Innovation Competition Third Prize(Team Leader)
 
 ---
 
 ## Current Interests
 
-- Agent Memory
-- Multi-Agent Systems
 - Retrieval-Augmented Generation
+- Deep Learning
 - Narrative Intelligence
 - Financial AI
 
@@ -40,7 +39,7 @@ Built a heterogeneous multi-agent environment to simulate market participants, s
 
 A retrieval framework that decouples retrieval anchors from generation content through marker extraction and dual-subtext representation.
 
-Currently under submission to AAAI 2026.
+Currently under submission to TOIS 2026.
 
 
 ---
