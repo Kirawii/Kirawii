@@ -5,7 +5,7 @@ Computer Science Student @ SWUFE
 Interested in building AI systems that can think, remember and collaborate.
 
 🌐 Personal Website: https://kirawii.github.io
-
+🌐 Personal Blog: https://kirawii.cn
 ---
 
 ## About Me
@@ -24,29 +24,6 @@ Interested in building AI systems that can think, remember and collaborate.
 - Deep Learning
 - Narrative Intelligence
 - Financial AI
-
----
-
-## Selected Projects
-
-### StableGuard
-
-LLM-based stablecoin depeg risk simulation platform.
-
-Built a heterogeneous multi-agent environment to simulate market participants, social media dynamics and risk propagation under extreme market conditions.
-
-### M-RAG
-
-A retrieval framework that decouples retrieval anchors from generation content through marker extraction and dual-subtext representation.
-
-Currently under submission to TOIS 2026.
-
-
----
-
-## Tech
-
-Python · FastAPI · Redis · LLMs
 
 ---
 
