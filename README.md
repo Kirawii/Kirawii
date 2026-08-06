@@ -15,18 +15,6 @@ Interested in building AI systems that can think, remember and collaborate.
 - 🎓 Computer Science @ SWUFE
 - 🔬 Research Assistant @ Nice Lab
 - 🤖 AI Agent & RAG
-- 📚 TOIS 2026 Submission (M-RAG)
-- 🏆 Citibank Financial Innovation Competition Third Prize(Team Leader)
-
----
-
-## Current Interests
-
-- Retrieval-Augmented Generation
-- Deep Learning
-- Narrative Intelligence
-- Financial AI
-
 ---
 
 ## Contact
